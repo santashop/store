@@ -1,0 +1,48 @@
+body{
+	
+	background-color: rgb(127, 101, 240);
+}
+
+html body {
+padding:0;
+margin:0;
+background-color: #000000;
+}
+input {
+	font: 18px Tahoma,Arial;
+}
+.mainLayout{
+	text-align: center;
+	font: 18px Tahoma,Arial;
+	
+}
+.header{
+	padding: 20px 0 15px 0;
+	background-color:rgba(0, 0, 0, 0);
+	color: #000;
+}
+.header a{
+	padding: 0 0 0 10px;
+	color:#a6ff00;
+	text-decoration:none;
+}
+.header a:hover{
+	color:#2600ff;
+	text-decoration:underline;
+}
+.content{
+	height: 570px;
+	padding: 50px 0 0 0;
+	font-size:14px;
+	color: rgb(94, 236, 255);
+	background-color:rgb(93, 209, 255);
+}
+.content table{
+	margin:auto;
+}
+.footer{
+	height: 100px;
+	padding: 15px 0 0 0;
+	color:#FFF;
+	background-color:rgb(0, 0, 0);
+}
